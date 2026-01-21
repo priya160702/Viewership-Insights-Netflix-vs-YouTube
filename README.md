@@ -35,48 +35,48 @@ The project combines data wrangling, analysis, and visualization to support stra
 ### Methodology
 1. Data Preparation
 
-Collected and cleaned datasets related to revenue, subscribers, and user engagement
+   Collected and cleaned datasets related to revenue, subscribers, and user engagement
 
-Standardized currencies, metrics, and date formats
+   Standardized currencies, metrics, and date formats
 
-Structured the data for Tableau-based analysis
+   Structured the data for Tableau-based analysis
 
-2. Data Analysis
+3. Data Analysis
 
-Compared total revenue, subscriber counts, and regional performance
+   Compared total revenue, subscriber counts, and regional performance
 
-Calculated growth rates, CAGR, and relative market share
+   Calculated growth rates, CAGR, and relative market share
 
-Analyzed YouTube Premium adoption trends
+   Analyzed YouTube Premium adoption trends
 
-Evaluated Netflix revenue fluctuations across years
+   Evaluated Netflix revenue fluctuations across years
 
 3. Tableau Visualization
 
-Revenue Comparison: Side-by-side dashboards showing revenue trends
+   Revenue Comparison: Side-by-side dashboards showing revenue trends
 
-User Base Insights: Geographic and demographic breakdowns
+   User Base Insights: Geographic and demographic breakdowns
 
-Trend Analysis: Line charts illustrating growth over time
+   Trend Analysis: Line charts illustrating growth over time
 
-Interactive Exploration: Filters and slicers for user-driven insights
+   Interactive Exploration: Filters and slicers for user-driven insights
 
 ### Key Insights
 
-Revenue Performance
-Netflix leads with $165B in total revenue, while YouTube generates $135B, reflecting its ad-first business model.
+1. Revenue Performance:
+   Netflix leads with $165B in total revenue, while YouTube generates $135B, reflecting its ad-first business model.
 
-User Base Scale
-YouTube dominates in reach with 18B users, compared to Netflix’s 1B subscribers, showcasing the power of open platforms.
+2. User Base Scale:
+   YouTube dominates in reach with 18B users, compared to Netflix’s 1B subscribers, showcasing the power of open platforms.
 
-YouTube Premium Growth
-Subscribers grew from 1M in 2015 to 80M in 2022, indicating strong demand for ad-free experiences.
+3. YouTube Premium Growth:
+   Subscribers grew from 1M in 2015 to 80M in 2022, indicating strong demand for ad-free experiences.
 
-Regional Strength
-Netflix’s strongest revenue markets are the USA and Canada, making them critical growth drivers.
+4. Regional Strength:
+   Netflix’s strongest revenue markets are the USA and Canada, making them critical growth drivers.
 
-Revenue Volatility
-Netflix experienced noticeable profit fluctuations between 2018–2021, highlighting challenges around global expansion and retention.
+5. Revenue Volatility:
+   Netflix experienced noticeable profit fluctuations between 2018–2021, highlighting challenges around global expansion and retention.
 
 ### Conclusion
 
