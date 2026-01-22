@@ -10,25 +10,25 @@ Despite serving the same screens, they win audiences in very different ways. Thi
 
 The competition between Netflix and YouTube closely mirrors how businesses compete for users, attention, and revenue. This analysis demonstrates how data can help organizations:
 
-Identify Opportunities by uncovering hidden growth patterns before competitors do
+1. Identify Opportunities by uncovering hidden growth patterns before competitors do
 
-Mitigate Risks by detecting revenue volatility or slowing adoption early
+2. Mitigate Risks by detecting revenue volatility or slowing adoption early
 
-Simplify Complexity by transforming raw numbers into intuitive visuals
+3. Simplify Complexity by transforming raw numbers into intuitive visuals
 
-Communicate Insights through clear, compelling data stories for decision-makers
+4. Communicate Insights through clear, compelling data stories for decision-makers
 
 ### Project Objective
 
 The objective of this project was to analyze the performance, reach, and growth trends of Netflix and YouTube and answer key business questions:
 
-Which platform generates more revenue?
+1. Which platform generates more revenue?
 
-Which has the larger user base?
+2. Which has the larger user base?
 
-How has YouTube Premium evolved over time?
+3. How has YouTube Premium evolved over time?
 
-Is Netflix experiencing growth, stagnation, or volatility?
+4. Is Netflix experiencing growth, stagnation, or volatility?
 
 The project combines data wrangling, analysis, and visualization to support strategic decision-making.
 
